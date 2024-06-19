@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>韓小han</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 韓小han</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 01:00:59 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/welcome/</link>
+      <pubDate>Thu, 20 Jun 2024 01:00:59 +0800</pubDate>
+      <guid>http://localhost:1313/welcome/</guid>
+      <description>Hello little han </description>
+    </item>
+  </channel>
+</rss>
